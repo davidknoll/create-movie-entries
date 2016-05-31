@@ -1,6 +1,6 @@
 {
   "name": "create-movie-entries",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "My entry for the challenge problem for week 1 of the MongoDB University M101JS course.",
   "main": "app.js",
   "scripts": {
